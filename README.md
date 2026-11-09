@@ -34,15 +34,7 @@ ATS scores are estimates for guidance only. They are not official scores from an
 - **Privacy policy:** https://adarsh-talla.github.io/job-resume-tailor-site/privacy.html
 - **Terms of use:** https://adarsh-talla.github.io/job-resume-tailor-site/terms.html
 
-These links will become active after the GitHub Pages site has been published.
 
-## License
-
-This project is intended to be released under the [MIT License](LICENSE).
-
-Copyright (c) 2026 Adarsh Talla.
-
-If you choose MIT when creating the repository, make sure GitHub adds the `LICENSE` file. The license applies to the repository content covered by it; it does not override OpenAI or ChatGPT platform terms.
 
 ## Author
 
